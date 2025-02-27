@@ -1,4 +1,4 @@
-# EventSpot Lite
+# Status Queen
 
 Status Queen is the Reactjs project in which you can easily find the quote of the day and as well as used the image corousel and as well as fin the birthday wishes for the person
 
