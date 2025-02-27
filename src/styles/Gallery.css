@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    margin:20px;
+}
+
+.lg-react-element{
+    column-count: 4;
+    column-gap: 10px;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    padding: 5px;
+}
